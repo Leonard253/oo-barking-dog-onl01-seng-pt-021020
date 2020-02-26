@@ -8,3 +8,4 @@ def name
 end
   
 Kujo = Dog.new
+

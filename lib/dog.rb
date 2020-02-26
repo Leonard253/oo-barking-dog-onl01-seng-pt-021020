@@ -4,4 +4,6 @@ class Dog
   end
 end
 
+def name
+  
 Kujo = Dog.new

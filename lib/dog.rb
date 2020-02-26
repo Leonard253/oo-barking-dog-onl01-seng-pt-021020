@@ -7,5 +7,5 @@ def name
   end
 end
   
-Kujo = Dog.new
-Kujo.
+kujo = Dog.new
+kujo.name = "Kujo"
